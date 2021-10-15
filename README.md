@@ -1,10 +1,9 @@
 # valeriagnarini.github.io
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit...
-
+Trying to build a web site in github ;)
 <figure>
   <img src="{{site.url}}/assets/image.jpg" alt="my alt text"/>
-  <figcaption>This is my caption text.</figcaption>
+  <figcaption>This is one of my photos.</figcaption>
 </figure>
 
-Vestibulum eu vulputate magna...
+to be continued...
